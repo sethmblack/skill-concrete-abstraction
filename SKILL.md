@@ -3,7 +3,7 @@ name: concrete-abstraction
 description: Transform abstract concepts into specific, sensory images that make ideas tangible, memorable, and emotionally resonant. Give the invisible a body.
 license: MIT
 metadata:
-  version: 1.0.3646
+  version: 1.0.3647
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
